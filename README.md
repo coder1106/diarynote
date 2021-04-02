@@ -1,0 +1,2 @@
+# diarynote
+图床
